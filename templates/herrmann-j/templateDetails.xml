@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.6" type="template">
+    <name>herrman-j</name>
+    <creationDate>2016-07-26</creationDate>
+    <author>D.U.K</author>
+    <authorEmail>ndung.trn@gmail.com</authorEmail>
+    <authorUrl>http://www.example.com</authorUrl>
+    <copyright>Herrman-j 2016</copyright>
+    <license>GNU/GPL</license>
+    <version>1.0.2</version>
+    <description>Herrmann Template</description>
+    <files>
+        <filename>index.php</filename>
+        <filename>templateDetails.xml</filename>
+        <folder>images</folder>
+        <folder>css</folder>
+    </files>
+    <positions>
+        <position>breadcrumb</position>
+        <position>left</position>
+        <position>right</position>
+        <position>top</position>
+        <position>user1</position>
+        <position>user2</position>
+        <position>user3</position>
+        <position>user4</position>
+        <position>footer</position>
+    </positions>
+</extension>
